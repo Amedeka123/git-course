@@ -3,3 +3,5 @@ Just did my first commit. welcome
 I am doing commit.
 
 Submit data to the database.
+I push my code to a remote repo. 
+Wow this wonder to do. Happy learning.

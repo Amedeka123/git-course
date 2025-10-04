@@ -1,0 +1,2 @@
+Git is ensentail for very programmer to learning.
+It help to track your project progress and versions.
