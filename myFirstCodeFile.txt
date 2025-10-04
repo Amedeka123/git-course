@@ -1,2 +1,3 @@
 hello world! git.
-Just did my first commit.
+Just did my first commit. welcome
+I am doing commit.
